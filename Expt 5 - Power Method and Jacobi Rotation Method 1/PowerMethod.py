@@ -1,3 +1,8 @@
+# Finding largest Eigenvalue and corresponding Eigenvector using Power Method.
+
+# Tapan Mayukh - 170121048 - 02/09/2019
+
+
 def matmul(A, B):
 	assert(len(A[0]) == len(B))
 	

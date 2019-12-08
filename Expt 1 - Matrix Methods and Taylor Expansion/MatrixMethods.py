@@ -1,4 +1,16 @@
+# Advanced Matrix Representation using a class.
+# The Matrix class has features such as:
+#    Initialization of a random matrix,
+#    Initialization of a matrix from 2D Array,
+#    Initialization of a matrix from 1D Array with given row and column,
+#    Finding the Transpose and Determinant of the Matrix,
+#    Displaying the matrix on the command line
+
+# Tapan Mayukh - 170121048 - 29/07/2019
+
+
 from random import random
+
 
 class Matrix:
 	'''
@@ -15,7 +27,7 @@ class Matrix:
 		
 		for i in range(r):
 			self.matrix.append([])
-			for j in range(c):
+			for _ in range(c):
 				self.matrix[i].append(random() * 2 - 1)
 	
 	
@@ -38,7 +50,7 @@ class Matrix:
 		Initialize a matrix with given 1D Array.
 		'''
 		if len(arr) != r * c:
-			raise IndexError("Number of element doesn't matrixch.")
+			raise IndexError("Number of elements don't match.")
 
 		matrix = Matrix(r, c)
 		for i in range(r):

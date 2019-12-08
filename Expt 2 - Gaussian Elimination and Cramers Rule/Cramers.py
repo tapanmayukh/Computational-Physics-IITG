@@ -1,3 +1,8 @@
+# Solve system of linear equations using Cramer's rule.
+
+# Tapan Mayukh - 170121048 - 05/08/2019
+
+
 def del_matrix(mat, r, c):
 	del_mat = [[0 for i in range(len(mat[0]) - 1)] for i in range(len(mat) - 1)]
 	

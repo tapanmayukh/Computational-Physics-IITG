@@ -1,3 +1,8 @@
+# Diagonalization of a matrix using Jacobi Rotation Method.
+
+# Tapan Mayukh - 170121048 - 02/09/2019
+
+
 from math import sqrt
 
 

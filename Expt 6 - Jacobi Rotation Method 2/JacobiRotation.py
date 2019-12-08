@@ -1,3 +1,8 @@
+# Finding Eigenvalues and Eigenvectors of a Matrix using Jacobi Rotation Matrix.
+
+# Tapan Mayukh - 170121048 - 09/09/2019
+
+
 from math import sqrt, pi, sin, cos, atan
 
 

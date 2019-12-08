@@ -1,3 +1,8 @@
+# Approximation of sine, cosine and exponential functions at a given argument using the Taylor Expansion.
+
+# Tapan Mayukh - 170121048 - 29/07/2019
+
+
 from math import sin, cos, exp, pi
 
 
@@ -119,7 +124,7 @@ print("Final Error: {}".format(err))
 print("Number of terms: {}".format(n))
 
 
-
+# Writing the data points in a file to plot using gnuplot.
 with open("sin_data.txt", "w") as f:
 	pass
 

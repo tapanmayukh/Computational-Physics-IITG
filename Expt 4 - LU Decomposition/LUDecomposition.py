@@ -1,3 +1,7 @@
+# Solve system of linear equations using LU Decompostition.
+
+# Tapan Mayukh - 170121048 - 26/08/2019
+
 def permute(n, A, b):
 	for i in range(n):
 		if A[i][i] == 0:

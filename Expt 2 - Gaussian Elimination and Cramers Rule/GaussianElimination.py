@@ -1,4 +1,6 @@
-# Solve Ax = b using gaussian elimination
+# Solve system of linear equations using gaussian elimination and back substitution.
+
+# Tapan Mayukh - 170121048 - 05/08/2019
 
 
 def sort_by_zeros(A, b):
