@@ -1,3 +1,8 @@
+# Gauss Seidel Method for Solution to Elliptic PDEs (Laplace Equation)
+
+# Tapan Mayukh - 170121048 - 28/10/2019
+
+
 import numpy as np
 
 

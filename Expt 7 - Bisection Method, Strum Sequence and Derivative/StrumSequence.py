@@ -1,3 +1,7 @@
+# Finding zeros of the characteristic polynomial of a matrix using Strum sequence
+
+# Tapan Mayukh - 170121048 - 23/09/2019
+
 from math import sqrt, ceil
 
 

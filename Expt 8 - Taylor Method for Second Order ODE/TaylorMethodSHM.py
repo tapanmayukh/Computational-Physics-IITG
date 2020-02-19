@@ -1,3 +1,8 @@
+# Numerical Solution to Simple Harmonic Motion using Taylor's Expansion
+# d2x / dt2 = -(k / m) * x
+
+# Tapan Mayukh - 170121048 - 30/09/2019
+
 from math import sqrt
 
 x0 = float(input("Enter starting position: "))

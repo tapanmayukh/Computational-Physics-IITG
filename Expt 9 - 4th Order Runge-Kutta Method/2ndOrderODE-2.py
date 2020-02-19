@@ -1,9 +1,15 @@
+# Numerical Solution to 2nd order ODE using 4th order Runge-Kutta Method
+# d2y / dx2 + dy / dx + 1 = 0
+
+# Tapan Mayukh - 170121048 - 14/10/2019
+
+
 def fun_f(x, y, z):
 	return z
 
 
 def fun_g(x, y, z):
-	return -15.0 * y - 10.0 * z
+	return - y - z
 
 
 def runge_kutta(x0, y0, z0, x, h):

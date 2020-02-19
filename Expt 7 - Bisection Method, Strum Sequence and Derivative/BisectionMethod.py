@@ -1,3 +1,7 @@
+# Finding the zeros of a polynomial in given interval and hence finding derivative at the point
+
+# Tapan Mayukh - 170121048 - 23/09/2019
+
 import random
 
 
@@ -41,6 +45,7 @@ def derivate(func, arr, val):
 
 
 if __name__ == "__main__":
+	# If n = len(arr), Array contains the coefficient of x^(n-1) to x^0 in increasing order of index.
 	arr = [1, 0, 0, 0, 0, -1, -1]
 	a, b = -10, 0
 	

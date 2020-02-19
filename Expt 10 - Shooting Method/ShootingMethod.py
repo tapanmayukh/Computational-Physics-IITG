@@ -1,3 +1,8 @@
+# Shooting Method to convert Boundary value Problems to Initial Value Problems
+# d2y / dx2 + dy / dx - 12  * y = 0
+
+# Tapan Mayukh - 170121048 - 21/10/2019
+
 from math import pi
 
 

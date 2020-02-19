@@ -1,3 +1,7 @@
+# Linear Congruential Generator of Random values for 1-D integration
+
+# Tapan Mayukh - 170121048 - 18/11/2019
+
 import numpy as np
 
 

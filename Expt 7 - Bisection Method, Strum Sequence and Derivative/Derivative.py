@@ -1,3 +1,7 @@
+# Finding the derivative and double derivative of a function
+
+# Tapan Mayukh - 170121048 - 23/09/2019
+
 from math import sinh, tanh
 
 

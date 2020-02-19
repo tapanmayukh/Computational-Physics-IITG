@@ -1,3 +1,9 @@
+# Numerical Solution to 1st order ODE using 4th order Runge-Kutta Method
+# dy / dx = x^2 + 1
+
+# Tapan Mayukh - 170121048 - 14/10/2019
+
+
 def fun_f(x, y):
 	return x * x + 1.0
 
