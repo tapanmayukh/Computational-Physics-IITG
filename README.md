@@ -25,4 +25,4 @@ Here is the [syllabus] for the Computational Physics course at IITG:
 **Monte Carlo Simulation:** Markov process and Markov chain, random numbers, simple and importance sampling, Metropolis algorithm, 2D-Ising model.
 
 [Computational Physics]: https://en.wikipedia.org/wiki/Computational_physics "Computational Physics - Wikipedia"
-[syllabus]: https://www.iitg.ac.in/phy/pdfdocs/BTech-EP-final-course-structure-plus-syllabus2019.pdf "Syllabus for B-Tech in EP, IITG"
+[syllabus]: https://iitg.ac.in/phy/pdfdocs/Engg_Physics_syllabus_major(without%20core%20course).pdf "Syllabus for B-Tech in EP, IITG"
